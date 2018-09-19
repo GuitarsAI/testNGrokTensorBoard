@@ -1,4 +1,4 @@
 embeddings {
-  tensor_name: "w2x_metadata"
-  metadata_path: "w2x_metadata.tsv"
+  tensor_name: "bolsonaro"
+  metadata_path: "bolsonaro.tsv"
 }
