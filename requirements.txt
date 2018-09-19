@@ -1,6 +1,4 @@
 tensorflow
 tensorboard
 ipython
-json
-sys
 notebook_autorun
