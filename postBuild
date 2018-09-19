@@ -4,5 +4,6 @@ unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 ipython start.py
 jupyter contrib nbextension install --user
 jupyter nbextension enable hide_input/main
+jupyter nbextension enable python-markdown/main
 jupyter trust test.ipynb
 
