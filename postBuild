@@ -3,5 +3,6 @@ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/nu
 unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 ipython start.py
 jupyter contrib nbextension install --user
+jupyter nbextension enable hide_input/main
 jupyter trust test.ipynb
 
