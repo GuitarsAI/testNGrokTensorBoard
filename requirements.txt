@@ -1,3 +1,6 @@
 tensorflow
 tensorboard
 ipython
+git
+curl
+unzip
