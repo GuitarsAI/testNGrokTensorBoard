@@ -1,4 +1,4 @@
 embeddings {
   tensor_name: "miro"
-  metadata_path: "./dire/bolsonaro.tsv"
+  metadata_path: "miro.tsv"
 }
