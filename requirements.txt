@@ -1,5 +1,5 @@
 tensorflow
 tensorboard
 ipython
-notebook_autorun
-jupyter_contrib_nbextensions
+thread
+time
