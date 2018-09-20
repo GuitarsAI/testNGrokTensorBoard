@@ -1,5 +1,4 @@
 tensorflow
 tensorboard
 ipython
-threading
 time
